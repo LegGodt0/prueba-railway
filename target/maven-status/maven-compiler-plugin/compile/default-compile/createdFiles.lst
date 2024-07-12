@@ -1,0 +1,11 @@
+com\javiersalinas\ProductosYCategoriasApplication.class
+com\javiersalinas\services\ServicioProductos.class
+com\javiersalinas\controllers\ControladorProductos.class
+com\javiersalinas\models\Product.class
+com\javiersalinas\services\ServicioCategorias.class
+com\javiersalinas\controllers\ControladorCategorias.class
+com\javiersalinas\repositories\RepositorioCategorias.class
+com\javiersalinas\repositories\RepositorioProductos.class
+com\javiersalinas\models\Category.class
+com\javiersalinas\controllers\FormCategorias.class
+com\javiersalinas\controllers\FormProductos.class
